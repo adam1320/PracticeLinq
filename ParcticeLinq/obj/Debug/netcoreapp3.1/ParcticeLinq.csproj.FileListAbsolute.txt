@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.exe
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.deps.json
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.runtimeconfig.json
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.dll
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\bin\Debug\netcoreapp3.1\ParcticeLinq.pdb
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.dll
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.pdb
+C:\Users\Adam\TrueCoders\Repos\PracticeLinq\ParcticeLinq\obj\Debug\netcoreapp3.1\ParcticeLinq.genruntimeconfig.cache
