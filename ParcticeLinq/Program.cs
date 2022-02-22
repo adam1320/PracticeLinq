@@ -10,7 +10,7 @@ namespace PracticeLinq
         {
             List<string> videoGames = new List<string>() { "RaceDriver", "FirstPersonShooter", "Basketball", "Football", "Soccer", "IceHockey", "KitchenChef", "MushroomLand"};
 
-           var sortedVideoGames = videoGames.OrderBy(x => x.Length);
+           var sortedVideoGames = videoGames.OrderBy(game => game.Length);
                 foreach (var game in sortedVideoGames)
                 {
                     Console.WriteLine($"{game}");
